@@ -5,8 +5,18 @@
 
 .lezioni {
   text-align: center;
+  display: block;
+margin-right: auto;
+margin-left: auto;
 }
 
 img {
   height: 150px;
+}
+
+.lezioni h1 {
+  text-align: center;
+  display: block;
+margin-right: auto;
+margin-left: auto;
 }
